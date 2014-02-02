@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4602"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Background.svg">
+  <defs
+     id="defs4604">
+    <filter
+       inkscape:collect="always"
+       id="filter5326">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5590796"
+         id="feGaussianBlur5328" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5362">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0252117"
+         id="feGaussianBlur5364" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5366">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0252117"
+         id="feGaussianBlur5368" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5370">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0252117"
+         id="feGaussianBlur5372" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5374">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0252117"
+         id="feGaussianBlur5376" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5326-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5590796"
+         id="feGaussianBlur5328-4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="304.7215"
+     inkscape:cy="481.30839"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4607">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-opacity:1;filter:url(#filter5366)"
+       id="rect5247"
+       width="371.42856"
+       height="211.42857"
+       x="51.42857"
+       y="55.219326" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-opacity:1;filter:url(#filter5374)"
+       id="rect5247-7"
+       width="371.42856"
+       height="211.42857"
+       x="182.85715"
+       y="143.79076" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.61211311999999996;stroke-opacity:1;filter:url(#filter5370)"
+       id="rect5247-5"
+       width="197.53073"
+       height="148.95932"
+       x="578.3775"
+       y="52.16824" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.61211311999999996;stroke-opacity:1;filter:url(#filter5362)"
+       id="rect5247-5-4"
+       width="197.53073"
+       height="148.95932"
+       x="-111.62251"
+       y="53.596806" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.61211312;stroke-opacity:1;filter:url(#filter5326)"
+       id="rect5247-5-5"
+       width="197.53073"
+       height="148.95932"
+       x="41.234634"
+       y="327.88254" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.61211312;stroke-opacity:1;filter:url(#filter5326-7)"
+       id="rect5247-5-5-3"
+       width="197.53073"
+       height="148.95932"
+       x="164.09178"
+       y="445.02536"
+       transform="matrix(1.8577768,0,0,1.3657993,25.955817,-334.3203)" />
+  </g>
+</svg>
